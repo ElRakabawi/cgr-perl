@@ -1,2 +1,4 @@
 # cgr-perl
-chaos game representation for DNA seqs.
+Chaos Game Representation for DNA seqs.
+</br>
+Run ```sudo cpan Chart::Gnuplot``` before running the script.
